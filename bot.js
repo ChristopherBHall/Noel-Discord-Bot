@@ -8,7 +8,7 @@ var video;
 
 var opts = {
   maxResults: 1,
-  key: 'AIzaSyAeMYTIely94DUm5dhqgR3mTKQy4D6GvJk'
+  key: ' Removed for security '
 };
 
 var reddit = require('reddit-joke');
@@ -27,7 +27,7 @@ function play(connection, message){
   });
 }
 
-client.login("MjU5OTc4NTc2NTU4OTQ4MzUy.DDc_Xg.eD1tqS3teLjre7Wy0FZsmmEfTaE");
+client.login(" Removed for security ");
 
 client.on("ready", () => {
   console.log("https://discordapp.com/oauth2/authorize?client_id=259978576558948352&scope=bot");
